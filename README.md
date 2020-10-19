@@ -1,5 +1,5 @@
 # Bridge Model Load Extraction Tool (BMLE)
-Bridge Model Load Extraction Tool
+
 The Bridge Model Load Extraction Tool currently interfaces with FEA program LARSA. 
 The tool enables the user to directly interface with LARSA via its API. 
 
